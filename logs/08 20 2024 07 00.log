@@ -1,0 +1,31 @@
+[ 2024-08-20 07:00:03,541 ] 22 src.logger.custom_logging - INFO - Getting Dataframe
+[ 2024-08-20 07:00:03,582 ] 26 src.logger.custom_logging - INFO - Saving Dataframe
+[ 2024-08-20 07:00:03,585 ] 30 src.logger.custom_logging - INFO - Train test split of dataframe
+[ 2024-08-20 07:00:03,624 ] 36 src.logger.custom_logging - INFO - Saved train set and test set
+[ 2024-08-20 07:00:03,624 ] 38 src.logger.custom_logging - INFO - Data ingestion complete
+[ 2024-08-20 07:00:03,681 ] 77 src.logger.custom_logging - INFO - Splitting train data into dependent and independent features
+[ 2024-08-20 07:00:03,681 ] 81 src.logger.custom_logging - INFO - Splitting test data into dependent and independent features
+[ 2024-08-20 07:00:03,694 ] 99 src.logger.custom_logging - INFO - Applying preprocessing
+[ 2024-08-20 07:00:04,506 ] 105 src.logger.custom_logging - INFO - Applying Label encoder
+[ 2024-08-20 07:00:04,507 ] 112 src.logger.custom_logging - INFO - Combining into array
+[ 2024-08-20 07:00:04,654 ] 17 src.logger.custom_logging - INFO - Entered into Model Trainer
+[ 2024-08-20 07:00:04,654 ] 31 src.logger.custom_logging - INFO - Evaluating the Model
+[ 2024-08-20 07:00:20,790 ] 36 src.logger.custom_logging - INFO - Model Report : {'Random Forest': 0.9832558139534884, 'Decision Tree': 0.9972093023255814}
+[ 2024-08-20 07:00:20,792 ] 49 src.logger.custom_logging - INFO - best model found, Model Name is Decision Tree, accuracy Score: 0.9972093023255814
+[ 2024-08-20 07:00:20,792 ] 51 src.logger.custom_logging - INFO - Saving the model
+[ 2024-08-20 07:00:26,477 ] 22 src.logger.custom_logging - INFO - Getting Dataframe
+[ 2024-08-20 07:00:26,519 ] 26 src.logger.custom_logging - INFO - Saving Dataframe
+[ 2024-08-20 07:00:26,522 ] 30 src.logger.custom_logging - INFO - Train test split of dataframe
+[ 2024-08-20 07:00:26,580 ] 36 src.logger.custom_logging - INFO - Saved train set and test set
+[ 2024-08-20 07:00:26,580 ] 38 src.logger.custom_logging - INFO - Data ingestion complete
+[ 2024-08-20 07:00:26,636 ] 77 src.logger.custom_logging - INFO - Splitting train data into dependent and independent features
+[ 2024-08-20 07:00:26,637 ] 81 src.logger.custom_logging - INFO - Splitting test data into dependent and independent features
+[ 2024-08-20 07:00:26,650 ] 99 src.logger.custom_logging - INFO - Applying preprocessing
+[ 2024-08-20 07:00:27,495 ] 105 src.logger.custom_logging - INFO - Applying Label encoder
+[ 2024-08-20 07:00:27,495 ] 112 src.logger.custom_logging - INFO - Combining into array
+[ 2024-08-20 07:00:27,627 ] 119 src.logger.custom_logging - INFO - Exited from data transformation
+[ 2024-08-20 07:00:27,637 ] 17 src.logger.custom_logging - INFO - Entered into Model Trainer
+[ 2024-08-20 07:00:27,637 ] 31 src.logger.custom_logging - INFO - Evaluating the Model
+[ 2024-08-20 07:00:43,235 ] 36 src.logger.custom_logging - INFO - Model Report : {'Random Forest': 0.987906976744186, 'Decision Tree': 0.9972093023255814}
+[ 2024-08-20 07:00:43,235 ] 49 src.logger.custom_logging - INFO - best model found, Model Name is Decision Tree, accuracy Score: 0.9972093023255814
+[ 2024-08-20 07:00:43,235 ] 51 src.logger.custom_logging - INFO - Saving the model

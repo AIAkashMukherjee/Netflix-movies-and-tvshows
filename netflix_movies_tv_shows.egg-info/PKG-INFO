@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: netflix-movies-tv-shows
+Version: 0.0.1
+Summary: A package for analyzing Netflix movies and TV shows data
+Home-page: UNKNOWN
+Author: Akash Mukherjee
+Author-email: akashmukherjee0000@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+This package provides tools for analyzing Netflix movies and TV shows data.
+
